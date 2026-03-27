@@ -62,7 +62,7 @@ cafe.add_to_menu(Coffee("Cappuccino", "Espresso with steamed milk and foam", 6.5
 cafe.add_to_menu(Coffee("Americano", "Espresso with hot water", 4.5))
 
 # display menu
-cafe.display_menu()
+cafe.display_menu()cd works\Hala
 
 # add orders
 cafe.add_order(cafe.menu[0], "Medium")
